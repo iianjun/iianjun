@@ -1,7 +1,7 @@
-### Hi there 👋
-- 💁 I'm Hasung Jun, also go by Ian in United States.🧑🏻‍
-- 🔭 I’m currently attending Stony Brook University as a double majoring in Computer Science and Technological Systems Management.
-- 🌱 I’m currently learning SwiftUI.
+### Hi there 🧑🏻‍💻
+- 💁 I'm Hasung Jun, also go by Ian in United States.
+- 👨🏼‍🎓 I’m currently attending Stony Brook University as a double majoring in Computer Science and Technological Systems Management.
+- 📖 I’m currently learning SwiftUI.
 - 📫 More about me: [LinkedIn](https://www.linkedin.com/in/hasung-jun-b4b2aa21a) or [Website](https://www.hasungjun.com)
 <!--
 **iianjun/iianjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
