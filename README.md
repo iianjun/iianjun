@@ -1,7 +1,7 @@
 ### Hi there 🧑🏻‍💻
 - 💁 I'm Hasung Jun, also go by Ian in United States.
 - 👨🏼‍🎓 I recently graduated from Stony Brook University with a Computer Science and Technological Systems Management degree.
-- 🧑🏻‍💻 I'm currently a Full-stack developer at Workwip.
+- 🧑🏻‍💻 I'm currently a Full-stack developer at WorkOnward.
 - 📖 I’m currently learning Swift.
 - 📫 More about me: [LinkedIn](https://www.linkedin.com/in/hasung-jun-b4b2aa21a) or [Website](https://www.hasungjun.com)
 <!--
